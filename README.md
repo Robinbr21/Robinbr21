@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Robinbr21
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning B.TECH information Technolagy
+- 🌱 I’m currently learning
 - 📫 How to reach me robinbr212@gmail.com
 
 <!---
