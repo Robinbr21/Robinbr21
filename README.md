@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Robinbr21
-- 👀 I’m interested in programming
+- 👀 Learning
 - 📫 How to reach me robinbr212@gmail.com
 
 <!---
